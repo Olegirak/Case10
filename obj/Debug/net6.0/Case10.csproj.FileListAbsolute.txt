@@ -1,0 +1,15 @@
+C:\Geekbrain\Case10\obj\Debug\net6.0\Case10.csproj.AssemblyReference.cache
+C:\Geekbrain\Case10\obj\Debug\net6.0\Case10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geekbrain\Case10\obj\Debug\net6.0\Case10.AssemblyInfoInputs.cache
+C:\Geekbrain\Case10\obj\Debug\net6.0\Case10.AssemblyInfo.cs
+C:\Geekbrain\Case10\obj\Debug\net6.0\Case10.csproj.CoreCompileInputs.cache
+C:\Geekbrain\Case10\bin\Debug\net6.0\Case10.exe
+C:\Geekbrain\Case10\bin\Debug\net6.0\Case10.deps.json
+C:\Geekbrain\Case10\bin\Debug\net6.0\Case10.runtimeconfig.json
+C:\Geekbrain\Case10\bin\Debug\net6.0\Case10.dll
+C:\Geekbrain\Case10\bin\Debug\net6.0\Case10.pdb
+C:\Geekbrain\Case10\obj\Debug\net6.0\Case10.dll
+C:\Geekbrain\Case10\obj\Debug\net6.0\refint\Case10.dll
+C:\Geekbrain\Case10\obj\Debug\net6.0\Case10.pdb
+C:\Geekbrain\Case10\obj\Debug\net6.0\Case10.genruntimeconfig.cache
+C:\Geekbrain\Case10\obj\Debug\net6.0\ref\Case10.dll
